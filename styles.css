@@ -1,0 +1,66 @@
+body{background-color: paleturquoise;
+
+}
+
+img{
+background-color: black;
+width:50px;
+}
+
+hr {
+border-style: dotted none none;
+width: 25%;
+border-color: green;
+border-width: 10px;
+}
+
+h1 {
+text-align: center;
+color: grey;
+}
+
+
+h3 {
+text-align: center;
+color: grey
+}
+
+
+p {
+text-align: center;
+}
+
+
+.Hoodie{
+color: red;
+}
+
+.Frenchy{
+color: orange
+}
+
+.Poley{
+color: yellow
+}
+
+.Duckie{
+color: green;
+}
+
+li {
+color: grey
+}
+
+
+ul{
+color: grey
+}
+
+
+ol{
+color: grey
+}
+
+a{
+font-size: 50px;
+}
